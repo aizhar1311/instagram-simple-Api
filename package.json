@@ -5,5 +5,22 @@
     "express": "^4.18.1",
     "fetch": "^1.1.0",
     "form-data": "^4.0.0"
-  }
+  },
+  "name": "instagram-simple-api",
+  "version": "1.0.0",
+  "description": "instagram simple api downloader",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "instagram",
+    "nodejs",
+    "javascript",
+    "instagram",
+    "downloader"
+  ],
+  "author": "ahmad izhar",
+  "license": "MIT"
 }
