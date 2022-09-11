@@ -1,3 +1,5 @@
+creator = 'Ahmad Izhar'
+
 loghandler = {
     error: {
         status: false,
@@ -37,4 +39,3 @@ loghandler = {
 }
 
 }
-creator = 'Ahmad Izhar'
